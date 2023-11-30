@@ -1,0 +1,26 @@
+Project Title
+Sentiment Analysis using CNN and EPL Prediction using ANN
+
+Description
+This project implements sentiment analysis using Convolutional Neural Networks (CNN) for analyzing text sentiment and Artificial Neural Networks (ANN) for predicting English Premier League (EPL) match outcomes.
+
+Features
+Sentiment analysis using CNN for classifying text sentiment (Positive/Negative)
+EPL prediction using ANN for predicting match outcomes
+Prerequisites
+Python 3.x
+Required libraries (List them with versions, e.g., TensorFlow, Keras, etc.)
+Jupyter Notebook (if applicable)
+Installation
+Clone the repository: git clone https://github.com/your-username/your-repo.git
+Install the required dependencies: pip install -r requirements.txt
+Usage
+Open the Jupyter Notebook for sentiment analysis: sentiment_analysis.ipynb
+Open the Jupyter Notebook for EPL prediction: epl_prediction.ipynb
+Follow the instructions in the notebooks to run and experiment with the code.
+Datasets
+Sentiment Analysis: (Provide details about the dataset used for sentiment analysis)
+EPL Prediction: (Provide details about the dataset used for EPL prediction)
+Results
+Include any key results or findings from your analysis.
+
